@@ -2,5 +2,8 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.write('Test')
-#hiwe
+import functions as times
+
+
+st.write (times(2,2))
+st.title('Is it working now, pls')
