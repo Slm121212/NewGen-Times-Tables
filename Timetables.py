@@ -5,5 +5,5 @@ import functions as times
 
 
 st.write (times(2,2))
-st.title('Is it working now, pls')
+
 st.title('Why hello there')
